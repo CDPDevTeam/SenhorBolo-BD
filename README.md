@@ -6,8 +6,7 @@
 
 ### Etapas do desenvolvimento
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
 - [x] Estrutura de dados
-- [ ] Procedures
-- [ ] Preenchimento com informações
+- [X] Preenchimento com informações
+- [X] Procedures
+
